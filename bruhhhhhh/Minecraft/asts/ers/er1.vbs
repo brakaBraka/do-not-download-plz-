@@ -1,0 +1,1 @@
+x=msgbox("Critical Error #2348FA300032:30",1+16,"Error message...")

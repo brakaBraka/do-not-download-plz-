@@ -1,0 +1,1 @@
+x=msgbox("Your computer cant run this file",0+48,"")
